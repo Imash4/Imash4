@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imash4
 - 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning python.
+- 📚 I’m currently learning python.
 - 📫 How to reach me:  Discord:Imash#7465
 
 <!---
